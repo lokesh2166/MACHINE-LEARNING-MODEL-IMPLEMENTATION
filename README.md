@@ -84,7 +84,7 @@ Recall: Measures how well the model identifies all spam messages.
 F1-score: A balance between precision and recall.
 
 output:
-
+![Image](https://github.com/user-attachments/assets/e786d975-c6dc-4a10-9b5b-8ac709c2a5ee)
 
 
 
